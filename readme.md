@@ -1,4 +1,4 @@
 # reactvue-cli
-##step
-### npm i reactvue-cli -g
-### reactvue init
+## Install
+> npm i reactvue-cli -g
+> reactvue init
