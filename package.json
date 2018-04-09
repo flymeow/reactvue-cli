@@ -1,6 +1,6 @@
 {
   "name": "reactvue-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "reactvue-cli",
   "main": "./bin/ReactVue.js",
   "bin": {
@@ -23,6 +23,18 @@
     "shelljs": "^0.8.1",
     "urllib": "^2.27.0"
   },
+  "directories": {
+    "lib": "lib"
+  },
+  "keywords": [
+    "reactvue-cli"
+  ],
   "repository": {
-  }
+    "type": "git",
+    "url": "git+https://github.com/flymeow/reactvue-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/flymeow/reactvue-cli/issues"
+  },
+  "homepage": "https://github.com/flymeow/reactvue-cli#readme"
 }
