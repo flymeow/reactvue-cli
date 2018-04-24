@@ -8,3 +8,4 @@ $ reactvue init
 ```
 > step
 ![step](/doc/step.jpg)
+<img src="/doc/step.jpg">
