@@ -1,6 +1,6 @@
 {
   "name": "reactvue-cli",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "reactvue-cli",
   "main": "./bin/ReactVue.js",
   "bin": {
